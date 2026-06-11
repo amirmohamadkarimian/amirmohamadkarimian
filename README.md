@@ -18,7 +18,7 @@ Frontend developer who cares about clean interfaces, fast performance, and maint
 ## 🔧 What I work with
 
 - **Languages:** JavaScript · TypeScript
-- **Framework:** Next.js (App Router & Pages Router)
+- **Framework:**  React · Next.js (App Router & Pages Router)
 - **Styling:** Tailwind CSS
 - **Tooling:** Git, ESLint, Prettier
 
